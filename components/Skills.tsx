@@ -11,7 +11,7 @@ const Skills = () => {
         <div className="col-span-3">
           <p className="heading_mini">My Skills</p>
           <h1 className="heading_primary">
-            Let's Explore Popular <span className="text-yellow-300">Skills</span> & Experience
+            Let&apos;s Explore Popular <span className="text-yellow-300">Skills</span> & Experience
           </h1>
           <p className="text-[15px] mb-[1.5rem] text-white opacity-70 mt-[1.5rem]">
           Explore essential skills and gain valuable experience in the technology sector, empowering yourself with knowledge and expertise.

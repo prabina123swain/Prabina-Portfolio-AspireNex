@@ -10,7 +10,7 @@ const Hero = () => {
     <div>
     <h1 className="text-[#c4cfde] mb-[1.3rem]">WELCOME TO MY WORLD</h1>
     <h1 className="xl:text-[50px] lg:text-[40px] sm:text-[35px] text-[25px] font-semibold leading-[2.4rem] text-white pb-4">
-    Hi, I'm <span className="text-yellow-300">Prabina</span> 
+    Hi, I&apos;m <span className="text-yellow-300">Prabina</span> 
     </h1>
     {/* TypewriterEffect */}
     <TypeWriteEffect/>

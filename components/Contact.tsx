@@ -8,11 +8,11 @@ const Contact = () => {
         <div>
           <p className="heading_mini">Get in Touch</p>
           <h1 className="heading_primary">
-            Let's make your <span className="text-yellow-400">Brand</span> brilliant
+            Let&apos;s make your <span className="text-yellow-400">Brand</span> brilliant
           </h1>
           <p className="text-white text-[15px] mt-1rem opacity-75">
-          Let's elevate your brand to new heights together! Contact me and 
-          let's bring your vision to life with creativity and precision.
+          Let&apos;s elevate your brand to new heights together! Contact me and 
+          let&apos;s bring your vision to life with creativity and precision.
           </p>
           <h1 className="mt-[1rem] mb-[1rem] text-[20px] text-yellow-300 underline font-bold">+91 1234567890</h1>
           <SocialMediaLinks/>
@@ -50,3 +50,4 @@ const Contact = () => {
 };
 
 export default Contact;
+ 
