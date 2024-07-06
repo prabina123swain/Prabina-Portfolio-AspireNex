@@ -126,7 +126,7 @@ export const projectsData: Project[] = [
     tech4: "MongoDB",
   },
   {
-    image: "/images/portfolio.jpg",
+    image: "/images/project2.jpg",
     title: "My Portfolio",
     description: `Created a personal portfolio to showcase my projects and skills. The portfolio is designed with a clean, modern aesthetic and features sections 
                 for projects, skills, experience, and contact information. The site is fully responsive and built using Next.js, TypeScript, Tailwind CSS, and Node.js.`,
